@@ -1,0 +1,101 @@
+business_id,name,num_reviews,rating,descriptors,price_descrip,su_breakfast,su_lunch,su_dinner,m_breakfast,m_lunch,m_dinner,t_breakfast,t_lunch,t_dinner,w_breakfast,w_lunch,w_dinner,r_breakfast,r_lunch,r_dinner,f_breakfast,f_lunch,f_dinner,sa_breakfast,sa_lunch,sa_dinner,pickup,delivery,restaurant_reservation
+j6t0BW13CZOiTfptbJkyUg,Zocalo,128.0,4.8,Mexican Coffee & Tea Breakfast & Brunch ,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,0.0
+Fz-BIAOoPIzfUj2NdFPEqA,Santa Barbara Fish Market and Restaurant - Goleta,97.0,4.4,Seafood Markets Seafood Fish & Chips ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+Rl42JbSMsmNW3LRjsTMYAg,Freebirds,1423.0,4.1,Mexican   ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,0.0,0.0
+eGI_WepIIjYahIrMVRknfw,Sizzling Lunch,148.0,4.2,Japanese Steakhouses Asian Fusion ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+9xW7LsJpyhVZFRb6z9xorg,Ca' Dario - Goleta,282.0,4.0,Italian Pizza Wine Bars ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,1,1.0,1.0,0.0
+NIust_QhVrFwOAmVf5qPPw,Teddy Rice,5.0,5.0,Comfort Food   ,,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+cZ6sHHLv7VSmuFSxP6sQLg,Lao Wang,181.0,3.8,Chinese Noodles  ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+bFWH7wlto7jjjwce5ZV--A,Home Plate Grill,320.0,4.5,Burgers Pizza Breakfast & Brunch ,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,0.0
+N9p_K2tK9pVY1ySLIejm4Q,CAYA Restaurant,80.0,4.0,Breakfast & Brunch Cocktail Bars Venues & Event Spaces ,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0
+vyyr3G874jpRYSQo2KPZow,Cristino's Bakery,285.0,4.7,Bakeries Coffee & Tea Sandwiches ,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1.0,1.0,0.0
+MiMRlsXOpHJMSTDAuw8s1w,Su’s Bowl,34.0,3.9,Asian Fusion Szechuan  ,,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+y_nxlU0bcvr-vsUoliOEJg,Hummus Republic,52.0,4.5,Mediterranean Vegetarian Vegan ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,1.0,0.0
+OzGk7arJv6FPrWqaYSvyKQ,Choi's Oriental Market,241.0,4.5,Korean International Grocery  ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0.0,1.0,0.0
+Qki5LF9vIN7KPM3gn2WkJQ,On The Alley - Goleta,299.0,3.8,American Breakfast & Brunch  ,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,0.0
+LlGIlNJE2Nv_PXkH7l4Wmg,Lilly's Tacos,656.0,4.4,Mexican   ,cheap,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0.0,1.0,0.0
+sNyHfboSOs-ESN76cYFfTA,Santorini Greek Island Grill,40.0,4.4,Greek Mediterranean Vegetarian ,cheap,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0.0,1.0,0.0
+PNVbv2kyUIHeJTDPis2gRg,Los Agaves,590.0,4.1,Bars Tacos  ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+_nSL2u-ZzX6kkAF2D2EZgQ,Roof Top Bistro & Bar,145.0,3.8,Bars New American Burgers ,moderate,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,1.0,1.0
+duNY5Poaw8SEF3YjUbJFjw,ASIA 101,12.0,3.8,Tapas/Small Plates Asian Fusion Noodles ,,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,0.0,0.0
+XHVn8rJKfzT6YxNEvmjonA,Social Eats UCSB,3.0,4.7,Burgers Coffee & Tea Noodles ,,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,0.0,0.0
+eCnHSfwrco1Vs3m-iRcavw,Timber's Roadhouse,196.0,3.9,Barbeque Steakhouses Sandwiches ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0.0,0.0,0.0
+2RtyOlU9mwyVisvgOECaDA,Uniboil,275.0,3.9,Asian Fusion Hot Pot Bubble Tea ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+sz5SMsTOTAshdfsaK98-TA,Jane At The Marketplace,390.0,3.9,New American Venues & Event Spaces  ,high,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,1.0,0.0
+A2slwG21Uulatt357w58PA,Mojo Asian Fusion Café,111.0,3.8,Asian Fusion Comfort Food Bubble Tea ,cheap,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+fAiPD2OIEm9wtS7uJqzu5Q,Natural Cafe,207.0,3.9,Salad Juice Bars & Smoothies American ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,1.0,0.0
+tjIIpbimdbi9Lrb-DoIzKg,Kaiju,107.0,3.6,Japanese Bubble Tea Asian Fusion ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,0.0,0.0
+ju4YP8SLdR_BmWr_-Xh83Q,Phamous Cafe,288.0,3.8,Vietnamese   ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0.0,1.0,0.0
+lXxgUnboepO4y-BgGVUQPw,Yummy Thai Restaurant,36.0,4.6,Thai   ,,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,1.0,1.0,0.0
+YxWiv24PHCseiVvGlqKFrQ,Woodstock's Pizza Isla Vista,623.0,4.0,Pizza Gluten-Free Vegetarian ,moderate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1.0,1.0,0.0
+-9r8nAzWyRSLxBWt8uQOdA,Hana Kitchen,370.0,3.0,Asian Fusion Bubble Tea Tacos ,cheap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,0.0
+2xxkaRy7rP5EUyjFt2J5kA,Nikka Ramen,801.0,4.4,Ramen Poke  ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,1.0,0.0
+TeUEijNG9w8m2fNaE7J1TA,TAP Thai Cuisine,97.0,3.6,Thai Noodles Soup ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,0.0,0.0
+q0DRuEAxE5i57xNSTrDP4Q,Naan Stop,382.0,3.6,Indian Bubble Tea  ,cheap,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,1.0,1.0,0.0
+odpuyU1jGDhhQ54d3dG3sQ,China King,257.0,3.7,Chinese Seafood Soup ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+SOl2m-ZsAmnCuQGdMZeANQ,Red Pepper Chinese Food Express,24.0,3.5,Chinese Fast Food  ,,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,1.0,1.0,0.0
+LKM0wL3GMsi8NwEdz-_n8w,Kyle's Kitchen,543.0,4.2,Salad Burgers Chicken Shop ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+PPGXOG3shqOa-2uCChLPxg,Yetz's Bagels,55.0,4.7,Bagels Coffee & Tea Sandwiches ,,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0.0,0.0,0.0
+1l4-uhraQzNiRjppKyMUUQ,Jeannine's American Bakery Restaurant,232.0,4.4,Coffee & Tea American  ,moderate,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0.0,1.0,0.0
+L6nIOUwcTGgQKExGHmvTzQ,Noodle City,590.0,3.7,Vietnamese Noodles  ,cheap,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0.0,1.0,0.0
+G0rJD85hUDQ0Omz0rOFeOQ,Nikka Fish Market and Grill,466.0,4.2,Seafood American  ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,1.0,0.0
+3s0n2KPdnXPNFSc6eVEdbA,Terra,17.0,3.5,Breakfast & Brunch New American Cocktail Bars ,,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0.0,0.0,0.0
+EPkF-beh6gg_s3HtlAdfiw,Goleta Sushi House,550.0,4.0,Sushi Bars Japanese  ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,1.0,0.0
+4h4Uskb7B8OTI7oDR7wImQ,Mesa Burger - Goleta,148.0,3.7,Burgers American Salad ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,1.0,0.0
+45Ut-AN8h3c88-pYTrGBnA,PokeCeviche,212.0,3.7,Poke Seafood Asian Fusion ,moderate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,0.0
+bLnC1_-Kd_Z5qhHNQXCUfQ,Choppa Poke,387.0,4.1,Poke Asian Fusion Seafood ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+_RMb-HO3vInP6oa6jF8TLQ,Santa Barbara Woodfire Catering,28.0,5.0,Pizza Caterers Pop-Up Restaurants ,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+_vLfidpLDYHfZ_KnFZ75Lg,Super Cucas,240.0,3.7,Mexican Breakfast & Brunch Juice Bars & Smoothies ,moderate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,0.0
+F6KHs4GDw_9tpuv65M6PGA,IV Deli Mart,227.0,3.5,Delis Sandwiches Burgers ,cheap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1.0,0.0
+29t8lDBLiwkEd1HA356dOw,Bagel Cafe,494.0,3.8,Bagels Cafes  ,cheap,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1.0,1.0,0.0
+uGo0TCVNOcDQxMArUU0Jrw,Cajun Kitchen Cafe,661.0,4.1,Cajun/Creole Breakfast & Brunch Sandwiches ,moderate,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1.0,1.0,0.0
+KSYONgGtrK0nKXfroB-bwg,Loquita,1496.0,4.4,Spanish  Tapas Bars Seafood,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,0.0,0.0
+nYPzsOjvida-ne7swSPHpA,Santo Mezcal,1741.0,4.3,Mexican  Latin American Cocktail Bars,moderate,0,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,0.0
+Y57sylYCgq2VQJuBCnjPfA,Oku,891.0,4.3,Sushi Bars  Asian Fusion Cocktail Bars,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,0,1,1,1.0,1.0,0.0
+vyOVT4bcW227LRwJGHTeSw,Buena Onda,687.0,4.7,Argentine  Latin American Empanadas,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,0,0,0,0,1.0,1.0,1.0
+U3grYFIeu6RgAAQgdriHww,Brophy Bros - Santa Barbara,3745.0,4.1,Seafood   ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,1.0
+3Wy21heeDm8h2tSZfcj6OA,Lure Fish House,1971.0,4.4,Seafood  Cocktail Bars Wine Bars,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+oGDGlUbOjHxmmCh8ZYcDCg,The Lark,1898.0,4.2,New American  Bars Seafood,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0.0,1.0,0.0
+yPSejq3_erxo9zdVYTBnZA,Los Agaves,4465.0,4.5,Tacos  Bars ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+skY6r8WAkYqpV7_TxNm23w,Boathouse at Hendry's Beach,3454.0,4.1,Seafood  Breakfast & Brunch New American,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,0.0
+6EizP0XyqITuGZ8GZMI9Lw,Toma Restaurant & Bar,1365.0,4.5,Bars  Italian ,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,1.0,0.0
+304FY8qhcOpm9SIkrzmhoQ,Reunion Kitchen + Drink,656.0,4.2,New American  Comfort Food Breakfast & Brunch,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,1.0
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,3024.0,4.0,Seafood  Live/Raw Food Beer Bar,high,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+tthy48ZIX_wfY8Dy0Dvg6w,Bouchon,1694.0,4.4,French  New American Seafood,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,1.0,0.0
+SYHDOHRNAH-2xsw3XB5qbg,The Shop Brunch,1397.0,4.3,New American  Coffee & Tea Breakfast & Brunch,moderate,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1.0,1.0,0.0
+fiQxkb1pfPpvrr0oYYYBcA,The Daisy Restaurant,222.0,4.8,Farmers Market  New American ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,0.0,0.0
+-FM4CxOg4XXmX_Ebky_SiQ,Finch & Fork,1579.0,4.2,New American  Breakfast & Brunch Bars,moderate,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,1.0,1.0,0.0
+eikRexw04kC6siBDkFnayQ,Shalhoob's Funk Zone Patio,587.0,4.3,Tapas/Small Plates  New American Venues & Event Spaces,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+Hl_vXTiYLozWo7T9Cq17vw,Aperitivo,135.0,4.8,Wine Bars  Tapas/Small Plates Desserts,,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,0.0,0.0
+EZc2myE2mYk2h9JK9qu8gw,Finney's Crafthouse - Santa Barbara,1525.0,4.3,Cocktail Bars  New American Burgers,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+aFhPwy7OhyKah4cJY2QdEQ,The Stonehouse Restaurant,451.0,4.4,New American  Seafood Steakhouses,expensive,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,1,0,0,0.0,0.0,0.0
+FhGmQb5cCGXmbrPHBg0WZw,Three Monkeys,60.0,4.5,Thai   ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,0.0,0.0
+q36uZc2hQml10YGHazJaoQ,Secret Bao,541.0,4.5,Asian Fusion   ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,1.0,1.0,0.0
+lNkxXDcNoHBpWDNPoZesYw,Caruso's,209.0,4.4,Italian  Wine Bars Cocktail Bars,expensive,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1.0,1.0,0.0
+zbrIMldF_O1ZQ0vpUaaa8A,Bluewater Grill - Santa Barbara,1166.0,3.8,Seafood  Bars New American,high,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+6HTGlttrzCMsuGBHO1ZGiw,Barbareño,551.0,4.4,New American  Barbeque Wine Bars,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,1.0,0.0
+8Vo6LN9gqULhXzoxj5k6kQ,"The Black Sheep ""SB Brasserie""",1234.0,4.4,New American  French Brasseries,high,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0.0,1.0,0.0
+69lct-m2tu7OLD_74OAg5w,Rodeo Room,103.0,4.7,Lounges  Gastropubs Cocktail Bars,moderate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+eaJGAny7zwE77Me01ZN7kw,Rare Society,230.0,4.1,Steakhouses   ,expensive,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0.0,0.0,0.0
+IDtLPgUrqorrpqSLdfMhZQ,Helena Avenue Bakery,627.0,4.3,Bakeries  Breakfast & Brunch Coffee & Tea,moderate,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0.0,1.0,0.0
+r2IhvKZQ_wLR5mLBnPOilg,The Honor Bar,732.0,4.3,Bars  New American Sandwiches,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,1.0,0.0
+f3eve2cxUIzyanWnHdMtFQ,Corazon Cocina,1041.0,4.5,Mexican   ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,0.0
+VOcGcN0bvGU_nzxbJgR5jQ,Bettina,655.0,4.2,Pizza  Italian ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,1.0,1.0,0.0
+45D7B9CqiUTTPUFcqmLx5Q,Live Oak Cafe,357.0,4.4,Breakfast & Brunch  Cafes American,moderate,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0.0,1.0,0.0
+bPVPZeqMuYtU_yGCb4P-jg,Empty Bowl Gourmet Noodle Bar,889.0,4.3,Thai  Noodles ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,1.0,0.0
+0qu0fNTOsSmuREYVIMPuIQ,Cold Spring Tavern,1332.0,4.3,American  Lounges ,moderate,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0.0,0.0,0.0
+ycV8LYE7_A6XHNYJcW807A,Lilac Montecito,38.0,4.5,New American  Gluten-Free Wine Bars,,1,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,1,0.0,0.0,0.0
+Qkg16mN-8QR66gjzg6gMyw,Convivo Restaurant and Bar,661.0,4.1,Bars  Italian Venues & Event Spaces,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,0.0
+67dE0HADV2ZcK83Ko32Dvw,Goodland Waffles & Melts,30.0,4.8,Waffles  Sandwiches Coffee & Tea,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0
+tf6S06LD09IFDHUpOPqPaw,East Beach Tacos,1142.0,4.6,Tacos   ,moderate,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,1.0,0.0
+2GiqDUNiTt5__ixRbzbqFw,Santa Barbara Harbor & Seafood Festival,24.0,4.3,Seafood  Festivals ,cheap,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0
+r8tU21scBflMxWiBESPtRQ,Shang Hai,266.0,4.4,Chinese  Vegetarian ,moderate,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,0,0.0,1.0,0.0
+54oLdsGU9B8HxFTqCCqV-A,Via Maestra 42,807.0,4.3,Delis  Italian ,moderate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1.0,1.0,0.0
+edJoBsse6nsF0BYh6pATAg,The Palace Grill,1681.0,4.3,Cajun/Creole  New American Seafood,moderate,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0.0,1.0,0.0
+uZYBF0YTU_iKq4_L_PDtMQ,Zaytoon,1438.0,4.2,Lebanese  Bars Mediterranean,moderate,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0.0,1.0,0.0
+CoZ2mpsMBP8HUG1ymKoZTg,Opal Restaurant & Bar,1140.0,4.3,Bars  Seafood Steakhouses,moderate,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1.0,1.0,0.0
+0ac5lGA_0wdKDnib3y59Xg,Flor De Maiz,860.0,4.1,Cocktail Bars  Mexican ,high,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0.0,0.0,0.0
+r926yelr_EJAKQCjdD6AWA,State & Fig,573.0,4.0,Cafes  New American Tapas/Small Plates,moderate,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1.0,1.0,0.0
+TfxALXy2PdjCCt3GsnsV-Q,Tamar,46.0,4.6,Middle Eastern  Vegan Vegetarian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+FEBwxZMEpxRwVXx9Fm0XZw,Chad's,1727.0,3.9,Breakfast & Brunch  Salad American,moderate,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0.0,1.0,0.0
+XyYsl2OyoMi6OMvzsdcVoQ,Mizza,609.0,4.0,Italian  Pizza Salad,high,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1.0,1.0,1.0
