@@ -1,2 +1,2 @@
-# yelp_recommender_project
+# yelp recommender project
 restaurant recommender system for santa barbara, ca
