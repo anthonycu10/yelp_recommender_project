@@ -1,0 +1,10 @@
+- `business_id`: Yelp's unique ID for the restaurant
+- `name`: restaurant name
+- `num_reviews`: number of reviews given for the restaurant on Yelp
+- `rating`: average rating (from 1-5)
+- `descriptors`: Yelp's cuisine, descriptions for the restaurant combined into one variable for convenient accessing
+- `price_descrip`: word description for the restaurant's price range (cheap, moderate, high, expensive)
+- `day_mealType`: one-hot encoded variable depicting wheter or not the restaurant offers this mealType (breakfast, lunch, dinner) on the day
+- `pickup`: wheter or not the restaurant offers pickup service
+- `delivery`: wheter or not the restaurant offers delivery service
+- `restaurant_reservation`: wheter or not the restaurant requires reservation
